@@ -7,7 +7,9 @@
 
 필요 라이브러리
 
-MFRC52
+MFRC52.h
+
+SPI.h
   
 # Raspbery Pi
 
