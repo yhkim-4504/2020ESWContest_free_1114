@@ -3,13 +3,13 @@
 1114번 거기잠깐마스크쓰시죠 팀의
 제출 소스코드입니다.
 
-Arduino
+##Arduino##
 
 필요 라이브러리
 MFRC52
   
   
-Raspbery Pi
+##Raspbery Pi##
 
 
 필요 라이브러리
