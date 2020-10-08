@@ -7,7 +7,7 @@
 
 필요 라이브러리
 
-MFRC52.h
+MFRC522.h
 
 SPI.h
   
